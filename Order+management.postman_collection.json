@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "cf081967-3b08-4562-8402-73d9333a207a",
-		"name": "Order management",
+		"name": "Order management with GIT",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
